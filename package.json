@@ -1,0 +1,22 @@
+{
+  "name": "roleplaybypost",
+  "version": "1.0.0",
+  "description": "Solo mean stack project to practice mongo and angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DRogalsky/Roleplaybypost.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DRogalsky/Roleplaybypost/issues"
+  },
+  "homepage": "https://github.com/DRogalsky/Roleplaybypost#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
